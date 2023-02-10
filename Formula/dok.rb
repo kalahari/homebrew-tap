@@ -1,8 +1,8 @@
 class Dok < Formula
     desc "CLI to manipulate the macOS Dock"
     homepage "https://github.com/kalahari/dok"
-    url "https://github.com/kalahari/dok/archive/refs/tags/v0.0.1.tar.gz"
-    sha256 "3a3657a6f285e0c4ab2564c7f8f3babdd37f96ad9ff29449366465158f78e41f"
+    url "https://github.com/kalahari/dok/archive/refs/tags/v0.0.3.tar.gz"
+    sha256 "ab3f0668324550358a6780bfa91ea459b20d8ee51aa6a351bb02d2021ae6b692"
     license "MIT"
     head "https://github.com/kalahari/dok.git", branch: "main"
   
