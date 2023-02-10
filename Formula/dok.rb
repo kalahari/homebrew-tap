@@ -8,7 +8,7 @@ class Dok < Formula
   
     def install
       prefix.install_metafiles
-      libexec.insatll Dir["libexec/*"]
-      bin.insatll Dir["bin/*"]
+      libexec.install Dir["libexec/*"]
+      bin.install Dir["bin/*"]
     end
   end
